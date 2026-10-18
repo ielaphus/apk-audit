@@ -1,0 +1,63 @@
+=========================================================
+APK : rustdesk-arm64.apk
+size: 27.4 MB, entries: 485
+dex: 2 (3.5+0.4 MB)
+native libs: 4
+   lib/arm64-v8a/libapp.so  11.8 MB
+   lib/arm64-v8a/libc++_shared.so  1.7 MB
+   lib/arm64-v8a/libflutter.so  10.2 MB
+   lib/arm64-v8a/librustdesk.so  35.0 MB
+--- permissions (15) ---
+   android.permission.ACCESS_NETWORK_STATE
+   android.permission.BIND_ACCESSIBILITY_SERVICE
+   android.permission.CAMERA
+   android.permission.DUMP
+   android.permission.FOREGROUND_SERVICE
+   android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION
+   android.permission.FOREGROUND_SERVICE_MICROPHONE
+   android.permission.FOREGROUND_SERVICE_SPECIAL_USE
+   android.permission.INTERNET
+   android.permission.POST_NOTIFICATIONS
+   android.permission.RECEIVE_BOOT_COMPLETED
+   android.permission.RECORD_AUDIO
+   android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
+   android.permission.SYSTEM_ALERT_WINDOW
+   android.permission.WAKE_LOCK
+--- package-ish ids (top by frequency) ---
+   com.carriez.flutter_hbb (10)
+   com.carriez.flutter_hbb.androidx (1)
+   com.carriez.flutter_hbb.flutter.image_provider (1)
+   com.journeyapps.barcodescanner (1)
+   io.flutter.plugins.urllauncher (1)
+playstore_refs: no
+scanned files: 10
+--- tracker / ad / Play markers ---
+   umeng : 2
+   admob : 1
+--- URL hosts, non-doc (top 25) ---
+   rustdesk.com : 10
+   api.flutter.dev : 2
+   neplatn : 2
+   ugyldig : 2
+   g.co : 1
+   overflowdeadlockterminalservice : 1
+   admin.rustdesk.comenable-ipv6-punchenable-webrtcpt-br : 1
+   api.telegram.org : 1
+   invalid : 1
+   sobimatu : 1
+   -rekin : 1
+   neva : 1
+   indirizzo : 1
+   netinkamas : 1
+   neder : 1
+   ongeldig : 1
+   indiritzu : 1
+   neveljaven : 1
+   server : 1
+   ogiltig : 1
+   virheellinen : 1
+   streams.videolan.org : 1
+   api.rustdesk.com : 1
+   distinct hosts total: 45
+--- signing ---
+   META-INF/KEY.SF, META-INF/KEY.RSA | v2/v3 block: yes
